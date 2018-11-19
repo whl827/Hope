@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8bc8db</color>
+
+    <color name="colorPrimaryDark">#8bc8db</color>
+    <color name="colorPrimaryDarkDark">#78adbe</color>
+    <color name="colorAccent">#FFF</color>
+    <color name="darkBackground">#4B4B4B</color>
+    <color name="locateColor">#a2c139</color>
+    <color name="messageColor">#2e8def</color>
+    <color name="colorGray">#EEE</color>
+    <color name="colorFacebook">#3a5799</color>
+
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">H</string>
+    <string name="locate_item">Locate Item</string>
+    <string name="message_person">Message</string>
+    <string name="complete_transaction">Complete Transaction</string>
+    <string name="item_name">Cheese</string>
+    <string name="back_string">Back</string>
+    <array name="transaction_types">
+        <item name="success">Success</item>
+        <item name="cancel">Cancel</item>
+        <item name="failure">Failure</item>
+    </array>
+
+
+    <array name="user_type">
+        <item name="donate">Donate</item>
+        <item name="receive">Receive</item>
+
+    </array>
+    <string name="photo_descriptor">Optional Photo of Item You Want</string>
+    <string name="hint_text">Item Name</string>
+    <string name="category">Category</string>
+    <string name="filler_text">User Name</string>
+    <string name="submit">Submit</string>
+
+    <string name="filler_text_bio">This is a users bio. Lorem ipsum dolor </string>
+
+    <string name="select_an_action">Select an Action</string>
+    <!--Content Descriptions-->
+    <string name="details_profile_content_desc">Details Profile</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_item_listings">Listings</string>
+    <string name="drawer_item_history">History</string>
+    <string name="drawer_item_request">Request</string>
+    <string name="fb_login_protocol_scheme">fb1166904813424088</string>
+    <string name="facebook_app_id">1166904813424088</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="nohave">Don\'t have an <b>H</b> account? <u>Sign Up</u></string>
+
+</resources>
