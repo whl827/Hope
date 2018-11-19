@@ -1,6 +1,7 @@
 # Hope
-Crowd Sourcing App for Homeless (Android)
+Crowd Sourcing App for Homeless
 &nbsp;
+
 Android App using (Java, REST, Android Volley, JSON, & etc)
 &nbsp;
 
