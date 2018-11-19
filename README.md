@@ -12,9 +12,6 @@ We focused on creating an easy way for homeless to connect with people who are w
 ## Login Page
 &nbsp;
 
-![alt text](https://github.com/whl827/Hope/blob/master/Pictures/1.jpg)
-&nbsp;
-
 ![alt text](https://github.com/whl827/Hope/blob/master/Pictures/Login.png)
 &nbsp;
 
