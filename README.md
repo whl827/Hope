@@ -1,8 +1,10 @@
 # Hope
-Crowd Sourcing App for Homeless
+Crowd Sourcing Donation App (Android) using (Java, REST, Android Volley, JSON, & etc)
 &nbsp;
 
-Android App using (Java, REST, Android Volley, JSON, & etc)
+## Inspiration
+According to recent studies, many homeless have a smartphone.
+We focused on creating an easy way for homeless to connect with people who are willing donate.
 &nbsp;
 
 ## Login Page
