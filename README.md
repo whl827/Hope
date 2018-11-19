@@ -37,6 +37,3 @@ We focused on creating an easy way for homeless to connect with people who are w
 &nbsp;
 
 ![alt text](https://github.com/whl827/Hope/blob/master/Pictures/5.PNG)
-&nbsp;
-
-![alt text](https://github.com/whl827/Hope/blob/master/Pictures/6.png)
