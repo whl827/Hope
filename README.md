@@ -5,6 +5,7 @@ Crowd Sourcing Donation App (Android) using (Java, REST, Android Volley, JSON, &
 ## Inspiration
 According to recent studies, many homeless have a smartphone.
 &nbsp;
+
 We focused on creating an easy way for homeless to connect with people who are willing donate
 &nbsp;
 
