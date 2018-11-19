@@ -30,13 +30,13 @@ We focused on creating an easy way for homeless to connect with people who are w
 ## Profile/Bio Page
 &nbsp;
 
-![alt text](https://github.com/whl827/Hope/blob/master/Pictures/4.jpg)
+![alt text](https://github.com/whl827/Hope/blob/master/Pictures/4.PNG)
 &nbsp;
 
 ## Main NewsFeed Page
 &nbsp;
 
-![alt text](https://github.com/whl827/Hope/blob/master/Pictures/5.jpg)
+![alt text](https://github.com/whl827/Hope/blob/master/Pictures/5.PNG)
 &nbsp;
 
-![alt text](https://github.com/whl827/Hope/blob/master/Pictures/6.jpg)
+![alt text](https://github.com/whl827/Hope/blob/master/Pictures/6.png)
